@@ -46,9 +46,3 @@
 <p align="left">-Technology Student<br>-Fullstack Developer<br>-Studying Python, JavaScript, CSS, HTML</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gilsonrsfilho/gilsonrsfilho/output/snake.svg" alt="Snake animation" />
-
-###
