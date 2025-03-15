@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilsonrsfilho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilsonrsfilho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilsonrsfilho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilsonrsfilho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -39,10 +39,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltNXZreHNocHgxcnQ3OXYxeWlwaHMxNmpjcjVhbWZoMWttNHQ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<p align="left">-Technology Student<br>-Fullstack Developer<br>-Studying Python, JavaScript, CSS, HTML</p>
 
 ###
 
-<p align="left">-Technology Student<br>-Fullstack Developer<br>-Studying Python, JavaScript, CSS, HTML</p>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltNXZreHNocHgxcnQ3OXYxeWlwaHMxNmpjcjVhbWZoMWttNHQ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
